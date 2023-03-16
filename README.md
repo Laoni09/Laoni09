@@ -1,6 +1,6 @@
 ### E aíii? Eu sou Laôni André!
 
-<img src="https://github-readme-stats.vercel.app/api?username=Laoni09&show_icons=true&theme=radical" height="180em" width="500em"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=Laoni09&show_icons=true&theme=radical" height="180em" width="500em" align="left"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laoni09&layout=compact&theme=radical" height="180em" width="500em" align="left"></img>
 
 <div style="display: inline_block"><br>
