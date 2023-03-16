@@ -1,7 +1,11 @@
 ### E aíii? Eu sou Laôni André!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laoni09&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laoni09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laoni09&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Laoni09&repo=convoychat" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Laoni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
