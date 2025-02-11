@@ -1,4 +1,4 @@
-### My name is Laôni André!
+### My name is Laôni André! (C is the most used language why private repositories aren't listed :v)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Laoni09&show_icons=true&theme=radical" height="180em" width="400px"></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laoni09&layout=compact&theme=radical" height="180em" width="356px"></img>
